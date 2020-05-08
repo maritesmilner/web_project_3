@@ -2,19 +2,22 @@
 
 ### Overview
 * Intro
-* Figma
-* Images
+* GitHub Pages
+* Tech used
+* Todo
 
 **Intro**
 
-This is a project about traveling across the US. We've made it so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.
+This is a web page about traveling across the US.
 
-**Figma**
+**GitHub Pages**
 
-* [Link to the project on Figma](https://www.figma.com/file/lNsn9aE1Be6bvg9FeAzRXT/Sprint-3-From-Portland-to-Portland-desktop-mobile?node-id=0%3A1)
+* [Link to the project on GitHub Pages](https://maritesmilner.github.io/web_project_3/index.html)
 
-**Images**
+**Tech used**
 
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
+The web page was created using HTML and CSS.
 
-Good luck and have fun!
+**Todo**
+
+Fix code review findings.

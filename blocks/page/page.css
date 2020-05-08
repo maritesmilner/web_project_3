@@ -9,4 +9,5 @@
     font-style: normal;
     background-color: #2A2C2F;
     color: #FFFFFF;
+    transition: .5s ease;
 }
