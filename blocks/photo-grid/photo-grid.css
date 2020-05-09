@@ -1,8 +1,10 @@
-@import url(./__pic/photo-grid__pic.css);
+@import url('./__pic/photo-grid__pic.css');
 
 .photo-grid {
   max-width: 1184px;
   margin: 0 auto;
+  padding: 0;
+  list-style: none;
   display: grid;
   grid-template-columns: repeat(4, 284px);
   grid-template-rows: repeat(3, 213px);

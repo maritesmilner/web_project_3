@@ -1,8 +1,8 @@
-@import url(./__logo/header__logo.css);
-@import url(./__lang-options/header__lang-options.css);
-@import url(./__lang-option/header__lang-option.css);
-@import url(./__lang-option-link/header__lang-option-link.css);
-@import url(./__lang-option-link/_active/header__lang-option-link_active.css);
+@import url('./__logo/header__logo.css');
+@import url('./__lang-options/header__lang-options.css');
+@import url('./__lang-option/header__lang-option.css');
+@import url('./__lang-option-link/header__lang-option-link.css');
+@import url('./__lang-option-link/_active/header__lang-option-link_active.css');
 
 .header {
   max-width: 984px;

@@ -1,7 +1,7 @@
-@import url(./__image-caption/lead__image-caption.css);
-@import url(./__image/lead__image.css);
-@import url(./__subtitle/lead__subtitle.css);
-@import url(./_title/lead__title.css);
+@import url('./__image-caption/lead__image-caption.css');
+@import url('./__image/lead__image.css');
+@import url('./__subtitle/lead__subtitle.css');
+@import url('./_title/lead__title.css');
 
 .lead {
   max-width: 984px;

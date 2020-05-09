@@ -1,4 +1,4 @@
-.places__description-text {
+.place__description-text {
   max-width: 484px;
   font-size: 18px;
   line-height: 30px;
@@ -6,12 +6,12 @@
   margin: 0 0 24px 0;
 }
 
-.places__description-text:last-child {
+.place__description-text:last-child {
   margin-bottom: 0;
 }
 
 @media screen and (max-width: 768px) {
-  .places__description-text {
+  .place__description-text {
     max-width: 352px;
     font-size: 16px;
     line-height: 26px;
@@ -19,7 +19,7 @@
 }
 
 @media screen and (max-width: 320px) {
-  .places__description-text {
+  .place__description-text {
     max-width: 288px;
     margin-left: auto;
     margin-right: auto;
